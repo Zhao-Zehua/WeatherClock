@@ -71,7 +71,7 @@
 
 **选项 1：** 使用转换工具
 
-使用 [`utils.ipynb`](https://github.com/Zhao-Zehua/WeatherClock/blob/main/utils.ipynb) 中的 `image_to_h` 函数。
+使用 [`utils.ipynb`](https://github.com/Zhao-Zehua/WeatherClock/blob/main/WeatherClock/utils.ipynb) 中的 `image_to_h` 函数。
 
 **选项 2：** 创建自定义像素风格图标
 
@@ -80,7 +80,7 @@
     - 设置画布大小为 18×18 并调整图片大小
     - 如果需要，可以手动编辑图像
     - 导出为 PNG 文件
-2. 使用 [`utils.ipynb`](https://github.com/Zhao-Zehua/WeatherClock/blob/main/utils.ipynb) 中的 `image_to_h` 函数将 PNG 转换为头文件。
+2. 使用 [`utils.ipynb`](https://github.com/Zhao-Zehua/WeatherClock/blob/main/WeatherClock/utils.ipynb) 中的 `image_to_h` 函数将 PNG 转换为头文件。
 
 **应用新图标：**
 

@@ -6,7 +6,7 @@ This project is part of the Labor Practice Course for undergraduates at College 
 
 Author: [@Zhao-Zehua](https://github.com/Zhao-Zehua)
 
-AI-translated Chinese README: [README_CN.md](https://github.com/Zhao-Zehua/WeatherClock/blob/main/README_zh.md)
+AI-translated Chinese README: [README_zh.md](https://github.com/Zhao-Zehua/WeatherClock/blob/main/README_zh.md)
 
 ## 1 Environment Setup
 
@@ -71,7 +71,7 @@ The icon size is 18×18 pixels. To change the icon, you have two options:
 
 **Option 1:** Use the Conversion Tool
 
-Use the `image_to_h` function in [`utils.ipynb`](https://github.com/Zhao-Zehua/WeatherClock/blob/main/utils.ipynb).
+Use the `image_to_h` function in [`utils.ipynb`](https://github.com/Zhao-Zehua/WeatherClock/blob/main/WeatherClock/utils.ipynb).
 
 **Option 2:** Create a Custom Pixel Art Icon
 
@@ -80,7 +80,7 @@ Use the `image_to_h` function in [`utils.ipynb`](https://github.com/Zhao-Zehua/W
     - Set the canvas size to 18×18 and resize the image (it will be automatically pixelated)
     - Edit the image manually if needed
     - Export as a PNG file
-1. Convert the PNG to a header file using the `image_to_h` function in [`utils.ipynb`](https://github.com/Zhao-Zehua/WeatherClock/blob/main/utils.ipynb).
+1. Convert the PNG to a header file using the `image_to_h` function in [`utils.ipynb`](https://github.com/Zhao-Zehua/WeatherClock/blob/main/WeatherClock/utils.ipynb).
 
 **Apply the New Icon:**
 
