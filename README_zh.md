@@ -13,7 +13,7 @@
 1. 安装 [Arduino IDE](https://www.arduino.cc/en/software)。
 2. 安装 ESP32 开发板支持包：
     - 打开 Arduino IDE，进入 **文件** → **首选项**。
-    - 在“附加开发板管理器网址”字段中，添加：`https://dl.espressif.com/dl/package_esp32_index.json`。
+    - 在“其他开发板管理器网址”字段中，添加：`https://dl.espressif.com/dl/package_esp32_index.json`。
     - 进入 **工具** → **开发板** → **开发板管理器**，搜索 “ESP32” 并安装 `2.0.9` 版本。其他版本可能也可用，但这是经过测试的版本。
 3. 将本仓库 `libraries` 文件夹中的库复制到您的 Arduino 库文件夹中 (通常位于 `~/Documents/Arduino/libraries`)。
 4. 将 `WeatherClock` 文件夹复制到您的 Arduino 项目文件夹中 (通常位于 `~/Documents/Arduino`)。
